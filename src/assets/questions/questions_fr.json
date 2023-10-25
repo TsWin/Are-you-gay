@@ -1,0 +1,121 @@
+[ {
+        "id": 1,
+        "question": "Avez vous déjà fait une olive à quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 2,
+        "question": "Avez vous déjà mimé le geste de s* quelqu’un?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 3,
+        "question": "Avez vous déjà donné une fessé à quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 4,
+        "question": "Avez vous déjà posé votre main sur la jambe à quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 5,
+        "question": "Avez vous déjà eu des pensées er*iques sur quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 6,
+        "question": "Vous êtes vous déjà astiqué le manche à balai sur quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 7,
+        "question": "Avez vous déjà asitiqué le manche à balai de quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 8,
+        "question": "Avez vous déjà carressé une partie du corps de quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 9,
+        "question": "Avez vous déjà regardé l’engin à quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 10,
+        "question": "Avez vous déjà regardé l’engin à quelqu’un du même genre que le vôtre dans les vestaires ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 11,
+        "question": "Avez vous déjà eu une relation se*elle avec quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 12,
+        "question": "Avez vous déjà mimé une relation se*elle avec à quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 13,
+        "question": "Avez vous déjà mimé une relation se*elle avec un objet ou une infrastructure  ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 14,
+        "question": "Avez vous déjà regardé du p*no gay ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 15,
+        "question": "Avez vous déjà fait des sons de joui*ment ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 16,
+        "question": "Avez vous déjà fouetté quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 17,
+        "question": "Avez vous déjà été enfermé dans un espace restreint dans le noir avec quelqu’un du même genre que le vôtre ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 18,
+        "question": "Avez vous déjà mimé une personne gay ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 19,
+        "question": "êtes vous déjà allé dans un club gay ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    },
+    {
+        "id": 20,
+        "question": "Avez vous déjà su*é votre doigt pour exprimé une volonté précise ?",
+        "answers": ["Oui", "Non"],
+        "points": [1, 0]
+    }
+]

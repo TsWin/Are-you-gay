@@ -1,0 +1,56 @@
+@charset 'utf-8';
+$font-family: 'Lora', serif;
+$family-primary: $font-family;
+@import '../../../node_modules/bulma/bulma.sass';
+@import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
+
+
+.is-gay1 {
+    border-color: #E40303;
+    background-color: #212529;
+    color: #FF8C00;
+}
+
+.is-gay2 {
+    border-color: #FFED00;
+    background-color: #212529;
+    color: #42DCA3;
+}
+
+.is-gay3 {
+    border-color: #24408E;
+    background-color: #212529;
+    color: #732992;
+}
+
+.is-gay1:hover {
+    border-color: #E40303;
+    background-color: #FFFFFF;
+    color: #FF8C00;
+}
+
+.is-gay2:hover {
+    border-color: #FFED00;
+    background-color: #FFFFFF;
+    color: #42DCA3;
+}
+
+.is-gay3:hover {
+    border-color: #24408E;
+    background-color: #FFFFFF;
+    color: #732992;
+}
+
+.landing-background {
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.searchBar {
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
