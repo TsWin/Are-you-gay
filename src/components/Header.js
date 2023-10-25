@@ -17,12 +17,12 @@ const Header = () => {
                                 <input className="input" type="text" placeholder="Your name" />
                             </div>
                             <div className="control">
-                                <a className="button is-info">Search</a>
+                                <button className="button is-info">Search</button>
                             </div>
                         </div>
                     </div>
                     <div className="navbar-item">
-                        <a className="button is-outlined is-gay1" disabled>
+                        <a href='#stats' className="button is-outlined is-gay1" disabled>
                             Stats
                         </a>
                     </div>
