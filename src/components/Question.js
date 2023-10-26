@@ -3,33 +3,26 @@ import React, { useState } from 'react';
 function Question({ question, onAnswer }) {
   const [answered, setAnswered] = useState(false);
 
-  function handleAnswerClick(points) {
+  function handleAnswerClick(points, answer, index) {
     setAnswered(true);
-    onAnswer(points);
+    onAnswer(points, answer, index);
   }
 
-  // data example:
-//   {
-//     "id": 1,
-//     "question": "Avez vous déjà fait une olive à quelqu’un du même genre que le vôtre ?",
-//     "answers": ["Oui", "Non"],
-//     "points": [1, 0]
-// },
-
-// Don't check if answer is correct just send the point back to the parent
-
   return (
-    <div>
-      <h2>{question.question}</h2>
-      {question.answers.map((option, index) => (
-        <button
-          key={index}
-          onClick={() => handleAnswerClick(question.points[index])}
-          disabled={answered}
-        >
-          {option}
-        </button>
-      ))}
+    <div className="box mt-6">
+      <h2 className="subtitle is-2">{question.question}</h2>
+      <div className="buttons is-centered">
+        {question.answers.map((option, index) => (
+          <button
+            key={index}
+            className={`button ${answered ? 'is-static' : ''}`}
+            onClick={() => handleAnswerClick(question.points[index], question.answers[index], index)}
+            disabled={answered}
+          >
+            {option}
+          </button>
+        ))}
+      </div>
     </div>
   );
 }

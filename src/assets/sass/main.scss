@@ -5,6 +5,13 @@ $family-primary: $font-family;
 @import url('https://fonts.googleapis.com/css2?family=Lora&display=swap');
 
 
+// $progress-bar-background-color: create a gradient that goes from #E40303 to #FFED00 to #24408E
+
+$gay-gradient: linear-gradient(to right, rgb(237, 34, 36), rgb(243, 91, 34), rgb(249, 150, 33), rgb(245, 193, 30), rgb(241, 235, 27) 27%, rgb(241, 235, 27), rgb(241, 235, 27) 33%, rgb(99, 199, 32), rgb(12, 155, 73), rgb(33, 135, 141), rgb(57, 84, 165), rgb(97, 55, 155), rgb(147, 40, 142));
+
+// $progress-bar-background-color: $gay-gradient;
+// $progress-value-background-color: $gay-gradient;
+// $progress-colors: $gay-gradient;
 .is-gay1 {
     border-color: #E40303;
     background-color: #212529;
@@ -54,3 +61,7 @@ $family-primary: $font-family;
     width: 100%;
     justify-content: space-around;
 }
+
+.is-linear-gradient-gay::-moz-progress-bar { background: $gay-gradient; }
+.is-linear-gradient-gay::-webkit-progress-value { background: $gay-gradient; }
+.is-linear-gradient-gay { color: $gay-gradient; }

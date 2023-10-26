@@ -6,7 +6,7 @@
     },
     {
         "id": 2,
-        "question": "Avez vous déjà mimé le geste de s* quelqu’un?",
+        "question": "Avez vous déjà mimé le geste de sucer quelqu’un?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     },
@@ -24,7 +24,7 @@
     },
     {
         "id": 5,
-        "question": "Avez vous déjà eu des pensées er*iques sur quelqu’un du même genre que le vôtre ?",
+        "question": "Avez vous déjà eu des pensées érotiques sur quelqu’un du même genre que le vôtre ?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     },
@@ -60,19 +60,19 @@
     },
     {
         "id": 11,
-        "question": "Avez vous déjà eu une relation se*elle avec quelqu’un du même genre que le vôtre ?",
+        "question": "Avez vous déjà eu une relation sexuelle avec quelqu’un du même genre que le vôtre ?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     },
     {
         "id": 12,
-        "question": "Avez vous déjà mimé une relation se*elle avec à quelqu’un du même genre que le vôtre ?",
+        "question": "Avez vous déjà mimé une relation sexuelle avec à quelqu’un du même genre que le vôtre ?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     },
     {
         "id": 13,
-        "question": "Avez vous déjà mimé une relation se*elle avec un objet ou une infrastructure  ?",
+        "question": "Avez vous déjà mimé une relation sexuelle avec un objet ou une infrastructure  ?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     },
@@ -114,7 +114,7 @@
     },
     {
         "id": 20,
-        "question": "Avez vous déjà su*é votre doigt pour exprimé une volonté précise ?",
+        "question": "Avez vous déjà sucé votre doigt pour exprimé une volonté précise ?",
         "answers": ["Oui", "Non"],
         "points": [1, 0]
     }

@@ -10,7 +10,7 @@ const Header = () => {
             </div>
             <div id="navbarBasicExample" className="navbar-menu">
                 <div className="navbar-end">
-                    <div className="navbar-item searchBar">
+                    {/* <div className="navbar-item searchBar">
                         <h3 className="is-3 has-text-white">Let's find out</h3>
                         <div className="field has-addons">
                             <div className="control">
@@ -20,14 +20,19 @@ const Header = () => {
                                 <button className="button is-info">Search</button>
                             </div>
                         </div>
+                    </div> */}
+                    <div className="navbar-item">
+                        <a href='/quizz' className="button is-outlined is-gay1">
+                            Quizz
+                        </a>
                     </div>
                     <div className="navbar-item">
-                        <a href='#stats' className="button is-outlined is-gay1" disabled>
+                        <a href='#stats' className="button is-outlined is-gay2" disabled>
                             Stats
                         </a>
                     </div>
                     <div className="navbar-item">
-                        <a href='#contact' className="button is-outlined is-gay1">Contact</a>
+                        <a href='#contact' className="button is-outlined is-gay3">Contact</a>
                     </div>
                 </div>
             </div>
